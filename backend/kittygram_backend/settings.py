@@ -6,11 +6,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'django-insecure-cg6*%6d51ef8f#4!r3*$vmxm4)abgjw8mo!4y-q*uq1!4$-89$'
 
-ALLOWED_HOSTS = ['130.193.53.162', '127.0.0.1', 'localhost', 'kittygramkat.ddns.net']
-
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['130.193.53.162', '127.0.0.1', 'localhost', 'kittygramkat.ddns.net']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
