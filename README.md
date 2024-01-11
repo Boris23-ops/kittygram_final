@@ -1,5 +1,5 @@
 ![Workflow](https://github.com/Boris23-ops/kittygram_final/actions/workflows/main.yml/badge.svg)
-
+___
 # Социальная сеть Kittygram
 
 ## Kittygram: это социальная сеть, с возможностью обмена фотографий, достижений, а также возраста кошек.
